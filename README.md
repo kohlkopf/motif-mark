@@ -11,4 +11,4 @@ Using Python, plot protein binding motifs on an image of the axon and flanking i
 + Vectorized output
 + Key/labeling
 
-![motif-mark](https://github.com/kohlkopf/motif-mark/motifs_marked.svg)
+![motif-mark](https://github.com/kohlkopf/motif-mark/blob/master/motifs_marked.svg)
